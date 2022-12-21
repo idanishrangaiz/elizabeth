@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #2c2f3f;
+  border: 8px solid #DEACCC;
 }
 
 #header .profile h1 {
@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #212431;
+  background: #DEACCC;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -152,7 +152,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: flex;
   align-items: center;
-  color: #a8a9b4;
+  color: #BC5898;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
