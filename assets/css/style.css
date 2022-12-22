@@ -1041,6 +1041,19 @@ div.isotope-pager{
     font-weight: 600;
     display: grid;
 }
+.mid-line h2::after {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 50%;
+  text-align: center !important;
+  height: 3px;
+  background: #7f7f7f;
+  bottom: 0;
+  /* left: 224px; */
+  right: 0px;
+  margin-left: 71px;
+}
 }
 .overlay i.bx.bx-folder-plus:hover {
     background: #0062cc;
@@ -1065,7 +1078,19 @@ div.isotope-pager{
       .col-lg-3.exp-icon.aos-init.aos-animate {
         padding: 20px 0px;
     }
-    
+    .mid-line h2::after {
+      content: '';
+      position: absolute;
+      display: block;
+      width: 50%;
+      text-align: center !important;
+      height: 3px;
+      background: #7f7f7f;
+      bottom: 0;
+      /* left: 224px; */
+      right: 0px;
+      margin-left: 171px;
+  }
     }
     .btn-cls a {
       color: #fff;
