@@ -1212,6 +1212,7 @@ p.exp-for-p {
   background: none;
   padding: 0 0px 0px 50px;
   margin: -20px 0px 0px 0px;
+  font-size: 85px !important;
 }
 
 .mid-line h2::after {
