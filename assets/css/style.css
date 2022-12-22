@@ -1136,7 +1136,13 @@ i.bx.bx-cloud-download {
   top: 3px;
   color: #BC5898;
 }
-
+i.bx.bx-cloud-download:hover {
+  margin-left: 10px;
+  font-size: 22px;
+  position: relative;
+  top: 3px;
+  color: #fff;
+}
 
 @media (min-width: 0px) and (max-width: 767px){
   /* a#dwnld-btn {
