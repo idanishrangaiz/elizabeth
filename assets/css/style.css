@@ -316,7 +316,12 @@ section#portfolio {
 .section-title p {
   margin-bottom: 0;
 }
-
+.port-sec .container-fluid.px-md-4 {
+  margin-top: -80px;
+}
+section#portfolio {
+  background: whitesmoke;
+}
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
