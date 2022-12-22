@@ -1471,3 +1471,12 @@ p.exp-for-p {
   right: 0px;
   margin-left: 240px;
 }
+
+.feature-exp iconify-icon {
+  background: #DEACCC;
+    font-size: 100px !important;
+    padding: 10px;
+    border-radius: 28px;
+    color: #BC5898;
+    margin-left: 40px;
+}
