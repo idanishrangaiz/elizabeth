@@ -276,7 +276,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 30px;
   }
   .mobile-nav-active .mobile-nav-toggle i {
-    color: #BC5898;
+    color: #fff;
 }
 }
 
@@ -1070,7 +1070,10 @@ div.isotope-pager{
     .btn-cls a {
       color: #fff;
   }
-
+  .mobile-nav-active .mobile-nav-toggle i {
+    color: #BC5898;
+    ;
+}
   a#hire-btn{
     background: #DEACCC;
     padding: 10px;
