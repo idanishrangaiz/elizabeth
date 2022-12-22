@@ -1458,3 +1458,16 @@ p.exp-for-p {
   margin: -20px 0px 0px 0px;
 }
 
+.mid-line h2::after {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 50%;
+  text-align: center !important;
+  height: 3px;
+  background: #7f7f7f;
+  bottom: 0;
+  /* left: 224px; */
+  right: 0px;
+  margin-left: 240px;
+}
