@@ -249,7 +249,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero p span {
-  color: #fff;
+  color: #00000085;
+  ;
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #BC5898;
@@ -297,7 +298,7 @@ section#portfolio {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #173b6c;
+  color: #00000085;
 }
 
 .section-title h2::after {
@@ -1373,7 +1374,7 @@ div.isotope-pager{
     font-weight: 500;
   }
   a#hire-btn:hover{
-    background: #DEACCC;
+    background: #BC5898;
      }
 
      
@@ -1387,7 +1388,7 @@ div.isotope-pager{
       font-weight: 500;
   }
   a#dwnld-btn:hover {
-    background: #DEACCC;
+    background: #BC5898;
 }
 
 i.bx.bx-cloud-download {
@@ -1449,6 +1450,15 @@ p.resume-paragrph{
 }
 .exp-icons i {
   margin-left: 40px;
+}
+.exp-icons .bx::before {
+  color: #BC5898;
+}
+.exp-icons i.bx {
+  background: #DEACCC ;
+  font-size: 100px !important;
+  padding: 10px;
+  border-radius: 28px;
 }
 p.exp-for-p { 
   padding: 10px;
