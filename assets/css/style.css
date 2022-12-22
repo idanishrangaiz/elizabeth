@@ -1106,9 +1106,11 @@ div.isotope-pager{
     font-family: 'Raleway';
     font-size: 18px;
     font-weight: 500;
+    color: #BC5898;
   }
   a#hire-btn:hover{
     background: #BC5898;
+    color: #fff;
      }
 
      
@@ -1119,10 +1121,12 @@ div.isotope-pager{
       border-radius: 8px;
       font-family: 'Raleway';
       font-size: 18px;
+      color: #BC5898;
       font-weight: 500;
   }
   a#dwnld-btn:hover {
     background: #BC5898;
+    color: #fff;
 }
 
 i.bx.bx-cloud-download {
@@ -1130,6 +1134,10 @@ i.bx.bx-cloud-download {
   font-size: 22px;
   position: relative;
   top: 3px;
+  color: #BC5898;
+}
+i.bx.bx-cloud-download {
+  color: #fff;
 }
 
 @media (min-width: 0px) and (max-width: 767px){
