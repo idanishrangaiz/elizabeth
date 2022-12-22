@@ -756,11 +756,11 @@ box-shadow: rgb(60 64 67 / 30%) 0px 1px 2px 0px, rgb(60 64 67 / 15%) 0px 2px 6px
 
 .contact .info i {
   font-size: 20px;
-  color: #DEACCC;
+  color: #BC5898;
   float: left;
   width: 44px;
   height: 44px;
-  background: #dff3fc;
+  background: #DEACCC;
   display: flex;
   justify-content: center;
   align-items: center;
