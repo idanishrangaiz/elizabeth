@@ -1317,3 +1317,9 @@ p.featured-paragraph {
 .design-dev li{
   list-style: none;
 }
+.resume-item.education-dev::before{
+  display:none;
+  }
+  .resume .resume-item:last-child {
+      padding-bottom: 0;
+  }
