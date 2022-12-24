@@ -1300,4 +1300,17 @@ p.exp-for-p {
 p.featured-paragraph {
   margin-left: -35px;
   font-size: 18px;
+
+  
+}
+.portfolio-links.feature-profile i.bx.bx-folder-plus
+{
+    position: relative;
+    top: -30px;
+    left: 78px;
+    font-size: 21px;
+    background: #bc5898;
+    padding: 4px 8px;
+    color: #fff;
+    border-radius: 4px;
 }
