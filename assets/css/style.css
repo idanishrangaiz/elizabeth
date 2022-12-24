@@ -1297,3 +1297,7 @@ p.exp-for-p {
 .skills-icon iconify-icon:hover {
   color: #fff;
 }
+p.featured-paragraph {
+  margin-left: -35px;
+  font-size: 18px;
+}
