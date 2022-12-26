@@ -1306,8 +1306,8 @@ p.featured-paragraph {
 .portfolio-links.feature-profile i.bx.bx-folder-plus
 {
     position: relative;
-    top: -30px;
-    left: 78px;
+    top: -35px;
+    left: 230px;
     font-size: 21px;
     background: #bc5898;
     padding: 4px 8px;
@@ -1323,3 +1323,14 @@ p.featured-paragraph {
   .resume .resume-item:last-child {
       padding-bottom: 0;
   }
+
+
+
+
+  
+  .exp-for-p p.resume-paragrph {
+    padding-top: 50px;
+}
+.feature-exp .col-lg-12 {
+  padding-left: 60px !important;
+}
